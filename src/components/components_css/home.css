@@ -1,0 +1,46 @@
+.home_wrap {
+}
+
+.home_nav {
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  background-color: #fff1d7;
+}
+
+.home_nav img {
+  width: 100px;
+  height: 100px;
+  -ms-user-select: none;
+  -moz-user-select: -moz-none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+
+.login_article {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  width: 250px;
+  height: 300px;
+  margin-left: -125px;
+  margin-right: -125px;
+  text-align: center;
+  background-color: #ffffff;
+  opacity: 0.8;
+  border-radius: 5%;
+}
+
+.login_article p {
+  position: relative;
+  top: 60px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.login_article a {
+  position: relative;
+  top: 70px;
+  font-size: 20px;
+}

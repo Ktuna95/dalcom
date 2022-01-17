@@ -1,0 +1,36 @@
+.game_nav {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 150px;
+  background-color: #fed893;
+}
+
+.game_nav img {
+  width: 82px;
+  height: 82px;
+  padding: 0px 20px 0px 15px;
+}
+
+.game_nav p {
+  font-size: 30px;
+  font-weight: bold;
+  color: #e87373;
+}
+
+.game_article {
+  height: 645px;
+  background-color: #fef5e7;
+}
+
+.lesson_1 {
+}
+
+.icon_circle {
+}
+
+.icon_circle img {
+}
+
+.icon_circle p {
+}
